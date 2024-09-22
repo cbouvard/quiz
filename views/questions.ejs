@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz 150 ans du CAF - Questions</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #ffffff;
+            color: #333;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            font-size: 1.5em;
+            margin: 10px 0;
+            padding: 15px;
+        }
+
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 2em;
+            }
+
+            li {
+                font-size: 1.2em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div><img src="/public/logo.png" alt="150 ans du Club Alpin" height="200" width="200"></div>
+    <h1>Questions</h1>
+    <ul>
+        <% questions.forEach(question => { %>
+            <li><a href="/questions/<%= question.id %>">Question <%= question.id %></a> <small>(<a href="/questions/<%= question.id %>/pdf-document">PDF</a>)</small></li>
+        <% }); %>
+    </ul>
+</body>
+</html>

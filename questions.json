@@ -1,0 +1,203 @@
+[
+  {
+    "id": 1,
+    "text": "Dans quelle ville nos intrépides ancêtres ont-ils planté le premier drapeau du Club Alpin Français ?\nAutrement dit, où a été créé le CAF ?",
+    "options": [
+      { "id": "A", "text": "Chambéry, la perle des Alpes" },
+      { "id": "B", "text": "Chamonix, au pied du Mont-Blanc" },
+      { "id": "C", "text": "Paris, la ville lumière" },
+      { "id": "D", "text": "Grenoble, la capitale des Alpes" }
+    ],
+    "correctAnswer": {
+      "id": "C",
+      "text": "Paris, la ville lumière",
+      "explanations": "Surprenant, n'est-ce pas ? Le Club Alpin Français a vu le jour en 1874 à Paris, loin des sommets enneigés. C'est un peu comme fonder un club de plongée au milieu du désert, mais nos ancêtres avaient de la suite dans les idées !"
+    }
+  },
+  {
+    "id": 2,
+    "text": "Quelle est la principale menace pour la biodiversité dans le Grand Site de Solutré Pouilly Vergisson ?",
+    "options": [
+      { "id": "A", "text": "L'invasion des extraterrestres" },
+      { "id": "B", "text": "La fragmentation des milieux naturels" },
+      {
+        "id": "C",
+        "text": "L'excès de randonneurs et de traileurs du Club Alpin Français"
+      },
+      { "id": "D", "text": "La surpopulation d'escargots de Bourgogne" }
+    ],
+    "correctAnswer": {
+      "id": "B",
+      "text": "La fragmentation des milieux naturels",
+      "explanations": "Pas d'aliens en vue, ouf ! La fragmentation des milieux naturels est le vrai méchant de l'histoire. C'est comme si on découpait l'habitat des espèces en petits morceaux, rendant leur vie quotidienne plutôt compliquée. Imaginez devoir traverser une autoroute pour aller boire votre café du matin !"
+    }
+  },
+  {
+    "id": 3,
+    "text": "Parmi ces personnalités, qui a participé à la création du Club Alpin Français tout en ayant un nom qui sonne comme un personnage de roman ?",
+    "options": [
+      { "id": "A", "text": "Victor Hugo, le poète des misérables" },
+      { "id": "B", "text": "Eugène Viollet-le-Duc, l'architecte des châteaux" },
+      {
+        "id": "C",
+        "text": "George Sand, la romancière au pseudonyme masculin"
+      },
+      { "id": "D", "text": "Jules Verne, l'explorateur des mondes imaginaires" }
+    ],
+    "correctAnswer": {
+      "id": "B",
+      "text": "Eugène Viollet-le-Duc, l'architecte des châteaux",
+      "explanations": "Eugène Viollet-le-Duc, célèbre pour ses restaurations de châteaux et cathédrales, était aussi un passionné de montagne. Il a participé à la création du CAF, prouvant qu'on peut être à l'aise aussi bien sur les échafaudages que sur les parois rocheuses ! Quant à George Sand, bien qu'elle ne fût pas membre fondatrice, elle était une fervente admiratrice de la montagne et a inspiré de nombreux alpinistes de l'époque par ses écrits."
+    }
+  },
+  {
+    "id": 4,
+    "text": "Quand on parle de \"réseaux écologiques\" sur le Grand Site de Solutré Pouilly Vergisson, on fait référence à...",
+    "options": [
+      { "id": "A", "text": "Un club de randonneurs écolo" },
+      { "id": "B", "text": "Des filets pour attraper les papillons rares" },
+      {
+        "id": "C",
+        "text": "Des continuums imbriqués de différents milieux naturels"
+      },
+      { "id": "D", "text": "Un réseau Wi-Fi pour les écureuils branchés" }
+    ],
+    "correctAnswer": {
+      "id": "C",
+      "text": "Des continuums imbriqués de différents milieux naturels",
+      "explanations": "Ne vous laissez pas prendre au piège des écureuils connectés ! Les réseaux écologiques sont en fait des ensembles de milieux naturels interconnectés, comme les forêts, les prairies et les zones humides. C'est un peu comme un patchwork naturel, mais sans les aiguilles !"
+    }
+  },
+  {
+    "id": 5,
+    "text": "Quelle ville, connue pour son vin plutôt que pour ses sommets, faisait partie des premières sections du Club Alpin Français ?",
+    "options": [
+      { "id": "A", "text": "Dijon" },
+      { "id": "B", "text": "Reims" },
+      { "id": "C", "text": "Chalon-sur-Saône" },
+      { "id": "D", "text": "Bordeaux" }
+    ],
+    "correctAnswer": {
+      "id": "C",
+      "text": "Chalon-sur-Saône",
+      "explanations": "Chalon-sur-Saône, bien que située en terrain plat, était l'une des premières sections du CAF. Preuve que l'amour de la montagne peut naître même loin des cimes. Les adhérents devaient avoir une sacrée motivation pour partir à l'assaut des sommets depuis leurs coteaux viticoles ! Heureusement, ils avaient de quoi trinquer à leur retour."
+    }
+  },
+  {
+    "id": 6,
+    "text": "Quand les premières démarches de préservation du Grand Site de France Solutré Pouilly Vergisson ont-elles été engagées ?",
+    "options": [
+      { "id": "A", "text": "Dans les années 1960" },
+      { "id": "B", "text": "Au début des années 2000" },
+      { "id": "C", "text": "Dès le milieu des années 80" },
+      { "id": "D", "text": "À la fin du 19e siècle" }
+    ],
+    "correctAnswer": {
+      "id": "C",
+      "text": "Dès le milieu des années 80",
+      "explanations": "Pas besoin d'être un vieux de la vieille pour connaître cette date ! Les efforts pour préserver ce joyau naturel ont débuté il y a environ 40 ans. C'est comme si la nature avait décidé de s'offrir un lifting pour ses 40 ans, mais en mieux : une cure de jouvence qui dure !"
+    }
+  },
+  {
+    "id": 7,
+    "text": "Quelle première ascension, réalisée avec un membre du CAF, a orné fièrement le logo du club pendant de nombreuses années ?",
+    "options": [
+      { "id": "A", "text": "Le Mont Blanc, le toit de l'Europe" },
+      { "id": "B", "text": "L'Aiguille du Midi, la sentinelle de Chamonix" },
+      { "id": "C", "text": "La Meije, la reine du Dauphiné" },
+      { "id": "D", "text": "Le Pic du Midi, l'observatoire des étoiles" }
+    ],
+    "correctAnswer": {
+      "id": "C",
+      "text": "La Meije, la reine du Dauphiné",
+      "explanations": "La Meije, conquise en 1877 par des membres du CAF, a longtemps été l'emblème du club. Cette ascension a marqué l'histoire de l'alpinisme français et prouvé que nos grimpeurs n'avaient rien à envier à leurs voisins britanniques !"
+    }
+  },
+  {
+    "id": 8,
+    "text": "Quel est l'objectif principal des protections réglementaires mises en place sur le Grand Site de Solutré Pouilly Vergisson ?",
+    "options": [
+      { "id": "A", "text": "Augmenter le nombre de visiteurs" },
+      { "id": "B", "text": "Construire de nouveaux bâtiments" },
+      {
+        "id": "C",
+        "text": "Conserver les qualités paysagères et écologiques exceptionnelles"
+      },
+      { "id": "D", "text": "Créer un parc d'attractions" }
+    ],
+    "correctAnswer": {
+      "id": "C",
+      "text": "Conserver les qualités paysagères et écologiques exceptionnelles",
+      "explanations": "On ne parle pas ici de construire le prochain Disneyland ! L'idée est de garder ce site aussi beau qu'un tableau de maître, mais version grandeur nature. C'est comme mettre la nature sous cloche, mais avec une cloche transparente pour que tout le monde puisse en profiter !"
+    }
+  },
+  {
+    "id": 9,
+    "text": "Quelle était la mission originelle du Club Alpin Français ?\n(Indice : ce n'était pas de trouver le meilleur spot pour le pique-nique !)",
+    "options": [
+      { "id": "A", "text": "Organiser des concours de lancer de piolets" },
+      {
+        "id": "B",
+        "text": "Faciliter et propager la connaissance de la montagne"
+      },
+      {
+        "id": "C",
+        "text": "Créer un réseau de télécabines dans toutes les Alpes"
+      },
+      {
+        "id": "D",
+        "text": "Établir un classement des meilleures fondues savoyardes"
+      }
+    ],
+    "correctAnswer": {
+      "id": "B",
+      "text": "Faciliter et propager la connaissance de la montagne",
+      "explanations": "Le CAF s'est donné pour mission de faire connaître et aimer la montagne. Une noble tâche qui va bien au-delà de la simple pratique sportive. C'est grâce à eux que nous savons aujourd'hui que la montagne, ça ne se résume pas qu'à \"ça monte\" !"
+    }
+  },
+  {
+    "id": 10,
+    "text": "Quel pourcentage de la superficie du Grand Site de Solutré Pouilly Vergisson est occupé par les réservoirs de biodiversité et les sites relais ?",
+    "options": [
+      { "id": "A", "text": "50%" },
+      { "id": "B", "text": "25%" },
+      { "id": "C", "text": "10%" },
+      { "id": "D", "text": "2%" }
+    ],
+    "correctAnswer": {
+      "id": "D",
+      "text": "2%",
+      "explanations": "Seulement 2% ! C'est peu, mais ne sous-estimez pas ces petits bijoux de nature. Ces zones sont comme des oasis de biodiversité dans un désert de vignes. Preuve que parfois, les meilleures choses viennent dans de petits emballages !"
+    }
+  },
+  {
+    "id": 11,
+    "text": "En quelle année le Club Alpin Français a-t-il commencé à emmener des enfants en montagne, créant ainsi la première génération de grimpeurs en culottes courtes ?",
+    "options": [
+      { "id": "A", "text": "1874, dès sa création" },
+      { "id": "B", "text": "1875, un an après sa fondation" },
+      { "id": "C", "text": "1900, pour fêter le nouveau siècle" },
+      { "id": "D", "text": "1950, après la Seconde Guerre mondiale" }
+    ],
+    "correctAnswer": {
+      "id": "B",
+      "text": "1875, un an après sa fondation",
+      "explanations": "Dès 1875, le CAF a commencé à organiser des sorties pour les enfants. Une initiative visionnaire qui a permis à de nombreux jeunes de découvrir la montagne et ses joies. Et dire qu'à l'époque, il n'y avait même pas de tablettes pour les occuper pendant le trajet ! Au Club Alpin de Mâcon, il y a une école d'escalade et une d'aventure pour les enfants et les ados."
+    }
+  },
+  {
+    "id": 12,
+    "text": "Quel programme européen est à l'oeuvre pour la protection de l'environnement sur le Grand Site de Solutré Pouilly Vergisson ?",
+    "options": [
+      { "id": "A", "text": "Natura 2000" },
+      { "id": "B", "text": "Europa Park" },
+      { "id": "C", "text": "Erasmus +" },
+      { "id": "D", "text": "Europe Ecologie Les Verts" }
+    ],
+    "correctAnswer": {
+      "id": "A",
+      "text": "Natura 2000",
+      "explanations": "Natura 2000, c'est un peu comme le Club Med de la biodiversité, mais en mieux ! Au lieu de bronzer sur la plage, on protège des espèces rares et des habitats précieux. Et le tout avec un nom qui sonne comme une mission spatiale pour sauver la Terre."
+    }
+  }
+]

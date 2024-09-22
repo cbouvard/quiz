@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz 150 ans du CAF - Question <%= question.id %></title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f7f7f7;
+            color: #333;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            font-size: 1.5em;
+            margin: 10px 0;
+            background-color: #fff;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        p {
+            margin-top: 20px;
+        }
+
+        img.qrcode {
+            border: solid 2px #c7c7c7;
+            border-radius: 15%;
+        }
+
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 2em;
+            }
+
+            li {
+                font-size: 1.2em;
+            }
+
+            a {
+                font-size: 1em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div><img src="/public/logo.png" alt="150 ans du Club Alpin" height="200" width="200"></div>
+    <h1><%= question.text %></h1>
+    <ul>
+        <% question.options.forEach(option => { %>
+            <li><%= option.id %>. <%= option.text %></li>
+        <% }); %>
+    </ul>
+    <p>Réponse :</p>
+    <p><a href="/questions/<%= question.id %>/answer"><img src="/questions/<%= question.id %>/answer/qrcode" class="qrcode" /></a></p>
+</body>
+</html>
