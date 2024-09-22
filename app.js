@@ -32,7 +32,11 @@ const generateQRCode = async (text) => {
 };
 
 const setupRoutes = (questions) => {
-    fastify.get('/questions', async (request, reply) => {
+    fastify.get('/', async (_request, reply) => {
+        return reply.send(); // Blank page
+    });
+
+    fastify.get('/questions', async (_request, reply) => {
         return reply.view('questions', { questions });
     });
 
